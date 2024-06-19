@@ -1,0 +1,1 @@
+These are the mini-projects which I did as a part of project based internship at YBI Foundation. I analysed various data and using SciKit Learn library and different models made predictions relevant to the data.
